@@ -1,0 +1,171 @@
+job_category,work_year,experience_level,avg_salary_usd
+AI Research,2022,MI,240000.0
+AI Research,2022,SE,199837.5
+AI Research,2023,EN,156937.5
+AI Research,2023,MI,159959.33333333334
+AI Research,2023,SE,194935.14545454545
+AI Research,2024,EN,153325.0
+AI Research,2024,MI,261138.85714285713
+AI Research,2024,SE,209463.65384615384
+AI Specialist,2022,EN,50000.0
+AI Specialist,2022,EX,200000.0
+AI Specialist,2022,MI,160000.0
+AI Specialist,2023,EN,130000.0
+AI Specialist,2023,MI,170000.0
+AI Specialist,2023,SE,233235.29411764705
+AI Specialist,2024,SE,217061.76470588235
+BI & Analytics,2021,MI,110000.0
+BI & Analytics,2022,EN,103000.0
+BI & Analytics,2022,EX,171166.66666666666
+BI & Analytics,2022,MI,114928.57142857143
+BI & Analytics,2022,SE,155860.29411764705
+BI & Analytics,2023,EN,112412.5
+BI & Analytics,2023,EX,200666.66666666666
+BI & Analytics,2023,MI,146890.69444444444
+BI & Analytics,2023,SE,162746.18994413406
+BI & Analytics,2024,EN,106155.55555555556
+BI & Analytics,2024,MI,146882.40740740742
+BI & Analytics,2024,SE,173601.75
+Business Intelligence,2022,SE,130000.0
+Business Intelligence,2023,EN,100650.0
+Business Intelligence,2023,EX,209850.0
+Business Intelligence,2023,MI,112540.625
+Business Intelligence,2023,SE,150720.30487804877
+Business Intelligence,2024,EX,137625.0
+Business Intelligence,2024,MI,116275.35294117648
+Business Intelligence,2024,SE,119812.65909090909
+Computer Vision & Deep Learning,2022,EN,125000.0
+Computer Vision & Deep Learning,2023,EN,163333.33333333334
+Computer Vision & Deep Learning,2023,MI,125000.0
+Computer Vision & Deep Learning,2023,SE,243907.36842105264
+Computer Vision & Deep Learning,2024,SE,205750.0
+Consulting & Strategy,2022,MI,113000.0
+Consulting & Strategy,2023,MI,84750.0
+Consulting & Strategy,2023,SE,112300.71428571429
+Consulting & Strategy,2024,MI,91492.5
+Data Analyst,2020,EN,81500.0
+Data Analyst,2020,MI,100000.0
+Data Analyst,2021,EN,67000.0
+Data Analyst,2021,MI,90714.28571428571
+Data Analyst,2021,SE,163750.0
+Data Analyst,2022,EN,68583.33333333333
+Data Analyst,2022,EX,120000.0
+Data Analyst,2022,MI,116143.07692307692
+Data Analyst,2022,SE,118702.51898734177
+Data Analyst,2023,EN,83604.265625
+Data Analyst,2023,EX,113125.0
+Data Analyst,2023,MI,99318.52651515152
+Data Analyst,2023,SE,122358.49168975069
+Data Analyst,2024,EN,96298.74561403508
+Data Analyst,2024,EX,124666.66666666667
+Data Analyst,2024,MI,107149.62393162394
+Data Analyst,2024,SE,128473.20289855072
+Data Engineer,2020,EN,70000.0
+Data Engineer,2020,MI,108000.0
+Data Engineer,2020,SE,188000.0
+Data Engineer,2021,EN,76250.0
+Data Engineer,2021,MI,128547.22222222222
+Data Engineer,2021,SE,174363.63636363635
+Data Engineer,2022,EN,126315.78947368421
+Data Engineer,2022,EX,234700.0
+Data Engineer,2022,MI,123904.32608695653
+Data Engineer,2022,SE,152789.6393939394
+Data Engineer,2023,EN,98492.94339622642
+Data Engineer,2023,EX,191730.21739130435
+Data Engineer,2023,MI,132774.87387387388
+Data Engineer,2023,SE,161213.6063386155
+Data Engineer,2024,EN,123997.3
+Data Engineer,2024,EX,189450.96666666667
+Data Engineer,2024,MI,129609.41596638656
+Data Engineer,2024,SE,163508.20197044336
+Data Management,2020,SE,190200.0
+Data Management,2021,MI,110000.0
+Data Management,2021,SE,156333.33333333334
+Data Management,2022,EX,205379.16666666666
+Data Management,2022,MI,164500.0
+Data Management,2022,SE,186607.625
+Data Management,2023,EN,94341.66666666667
+Data Management,2023,EX,229540.0
+Data Management,2023,MI,151278.57142857142
+Data Management,2023,SE,209279.64814814815
+Data Management,2024,EX,376000.0
+Data Management,2024,MI,151416.15625
+Data Management,2024,SE,105000.0
+Data Operations,2022,MI,80000.0
+Data Operations,2022,SE,87500.0
+Data Operations,2023,SE,178825.0
+Data Operations,2024,MI,222070.0
+Data Operations,2024,SE,237921.125
+Data Scientist,2020,EN,105000.0
+Data Scientist,2020,MI,120450.0
+Data Scientist,2020,SE,158000.0
+Data Scientist,2021,EN,85600.0
+Data Scientist,2021,MI,124166.66666666667
+Data Scientist,2021,SE,188750.0
+Data Scientist,2022,EN,110698.14285714286
+Data Scientist,2022,EX,144500.0
+Data Scientist,2022,MI,131096.11111111112
+Data Scientist,2022,SE,159222.60211267605
+Data Scientist,2023,EN,107332.06521739131
+Data Scientist,2023,EX,192545.83333333334
+Data Scientist,2023,MI,137889.64220183485
+Data Scientist,2023,SE,177330.32544861338
+Data Scientist,2024,EN,106603.33333333333
+Data Scientist,2024,EX,165500.0
+Data Scientist,2024,MI,137593.6584507042
+Data Scientist,2024,SE,168599.0114678899
+Leadership & Management,2020,EX,312500.0
+Leadership & Management,2021,EX,242500.0
+Leadership & Management,2021,MI,150000.0
+Leadership & Management,2022,EX,182500.0
+Leadership & Management,2022,SE,315000.0
+Leadership & Management,2023,EX,242326.51162790696
+Leadership & Management,2023,MI,173727.92857142858
+Leadership & Management,2023,SE,177831.0
+Leadership & Management,2024,EX,220289.47368421053
+Leadership & Management,2024,SE,180310.33333333334
+MLOps & Infrastructure,2021,SE,195000.0
+MLOps & Infrastructure,2022,MI,129000.0
+MLOps & Infrastructure,2022,SE,167400.0
+MLOps & Infrastructure,2023,EN,95650.0
+MLOps & Infrastructure,2023,MI,145770.0
+MLOps & Infrastructure,2023,SE,185660.0
+MLOps & Infrastructure,2024,MI,220000.0
+MLOps & Infrastructure,2024,SE,182133.33333333334
+Machine Learning,2020,EN,194000.0
+Machine Learning,2020,SE,150000.0
+Machine Learning,2021,EN,103000.0
+Machine Learning,2021,MI,423000.0
+Machine Learning,2021,SE,206500.0
+Machine Learning,2022,EN,127200.0
+Machine Learning,2022,MI,140207.14285714287
+Machine Learning,2022,SE,175662.83116883118
+Machine Learning,2023,EN,124123.72727272728
+Machine Learning,2023,EX,191188.88888888888
+Machine Learning,2023,MI,171095.53658536586
+Machine Learning,2023,SE,200027.20847651776
+Machine Learning,2024,EN,130316.25
+Machine Learning,2024,EX,225091.66666666666
+Machine Learning,2024,MI,171897.6326530612
+Machine Learning,2024,SE,210068.33146067415
+Research & Science,2020,MI,450000.0
+Research & Science,2022,EN,120000.0
+Research & Science,2022,MI,145000.0
+Research & Science,2022,SE,191558.0
+Research & Science,2023,EN,129248.29090909091
+Research & Science,2023,EX,202500.0
+Research & Science,2023,MI,172176.47619047618
+Research & Science,2023,SE,191296.71171171172
+Research & Science,2024,EN,138687.44186046513
+Research & Science,2024,MI,184355.1625
+Research & Science,2024,SE,219455.45341614907
+Software & Data Architecture,2021,EN,70000.0
+Software & Data Architecture,2021,MI,166666.66666666666
+Software & Data Architecture,2021,SE,250000.0
+Software & Data Architecture,2022,SE,171824.6888888889
+Software & Data Architecture,2023,EX,167500.0
+Software & Data Architecture,2023,MI,154865.65217391305
+Software & Data Architecture,2023,SE,170562.4120879121
+Software & Data Architecture,2024,EX,195000.0
+Software & Data Architecture,2024,MI,214666.66666666666
+Software & Data Architecture,2024,SE,172998.7962962963
