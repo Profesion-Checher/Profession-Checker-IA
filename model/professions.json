@@ -1,0 +1,1022 @@
+[
+  {
+    "model": "professions.profession",
+    "pk": 1,
+    "fields": {
+      "profession_name": "Research Scientist",
+      "current_salary": 159564.43,
+      "future_salaries": [
+        159564,
+        159564,
+        159564
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "MI"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 2,
+    "fields": {
+      "profession_name": "Research Scientist",
+      "current_salary": 188071.07,
+      "future_salaries": [
+        188071,
+        188071,
+        188071
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "SE"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 3,
+    "fields": {
+      "profession_name": "Research Scientist",
+      "current_salary": 127046.28,
+      "future_salaries": [
+        127046,
+        127046,
+        127046
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EN"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 4,
+    "fields": {
+      "profession_name": "Research Scientist",
+      "current_salary": 195889.27,
+      "future_salaries": [
+        195889,
+        195889,
+        195889
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EX"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 5,
+    "fields": {
+      "profession_name": "Manager",
+      "current_salary": 145796.06,
+      "future_salaries": [
+        145796,
+        145796,
+        145796
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "MI"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 6,
+    "fields": {
+      "profession_name": "Manager",
+      "current_salary": 170145.83,
+      "future_salaries": [
+        170145,
+        170145,
+        170145
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "SE"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 7,
+    "fields": {
+      "profession_name": "Manager",
+      "current_salary": 170507.12,
+      "future_salaries": [
+        170507,
+        170507,
+        170507
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EN"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 8,
+    "fields": {
+      "profession_name": "Manager",
+      "current_salary": 212195.55,
+      "future_salaries": [
+        212195,
+        212195,
+        212195
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EX"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 9,
+    "fields": {
+      "profession_name": "Software Engineer",
+      "current_salary": 155429.43,
+      "future_salaries": [
+        155429,
+        155429,
+        155429
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "MI"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 10,
+    "fields": {
+      "profession_name": "Software Engineer",
+      "current_salary": 185817.42,
+      "future_salaries": [
+        185817,
+        185817,
+        185817
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "SE"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 11,
+    "fields": {
+      "profession_name": "Software Engineer",
+      "current_salary": 82822.16,
+      "future_salaries": [
+        82822,
+        82822,
+        82822
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EN"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 12,
+    "fields": {
+      "profession_name": "Software Engineer",
+      "current_salary": 235908.33,
+      "future_salaries": [
+        235908,
+        235908,
+        235908
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EX"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 13,
+    "fields": {
+      "profession_name": "Data Scientist",
+      "current_salary": 123421.85,
+      "future_salaries": [
+        123421,
+        123421,
+        123421
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "MI"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 14,
+    "fields": {
+      "profession_name": "Data Scientist",
+      "current_salary": 161923.59,
+      "future_salaries": [
+        161923,
+        161923,
+        161923
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "SE"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 15,
+    "fields": {
+      "profession_name": "Data Scientist",
+      "current_salary": 107188.45,
+      "future_salaries": [
+        107188,
+        107188,
+        107188
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EN"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 16,
+    "fields": {
+      "profession_name": "Data Scientist",
+      "current_salary": 158565.96,
+      "future_salaries": [
+        158565,
+        158565,
+        158565
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EX"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 17,
+    "fields": {
+      "profession_name": "Research Engineer",
+      "current_salary": 184617.76,
+      "future_salaries": [
+        184617,
+        184617,
+        184617
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "MI"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 18,
+    "fields": {
+      "profession_name": "Research Engineer",
+      "current_salary": 200913.11,
+      "future_salaries": [
+        200913,
+        200913,
+        200913
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "SE"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 19,
+    "fields": {
+      "profession_name": "Research Engineer",
+      "current_salary": 132607.42,
+      "future_salaries": [
+        132607,
+        132607,
+        132607
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EN"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 20,
+    "fields": {
+      "profession_name": "Research Engineer",
+      "current_salary": 194181.19,
+      "future_salaries": [
+        194181,
+        194181,
+        194181
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EX"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 21,
+    "fields": {
+      "profession_name": "Machine Learning Engineer",
+      "current_salary": 158666.93,
+      "future_salaries": [
+        158666,
+        158666,
+        158666
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "MI"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 22,
+    "fields": {
+      "profession_name": "Machine Learning Engineer",
+      "current_salary": 194792.02,
+      "future_salaries": [
+        194792,
+        194792,
+        194792
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "SE"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 23,
+    "fields": {
+      "profession_name": "Machine Learning Engineer",
+      "current_salary": 181992.58,
+      "future_salaries": [
+        181992,
+        181992,
+        181992
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EN"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 24,
+    "fields": {
+      "profession_name": "Machine Learning Engineer",
+      "current_salary": 222546.81,
+      "future_salaries": [
+        222546,
+        222546,
+        222546
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EX"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 25,
+    "fields": {
+      "profession_name": "Data Analyst",
+      "current_salary": 93405.57,
+      "future_salaries": [
+        93405,
+        93405,
+        93405
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "MI"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 26,
+    "fields": {
+      "profession_name": "Data Analyst",
+      "current_salary": 114064.87,
+      "future_salaries": [
+        114064,
+        114064,
+        114064
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "SE"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 27,
+    "fields": {
+      "profession_name": "Data Analyst",
+      "current_salary": 84121.68,
+      "future_salaries": [
+        84121,
+        84121,
+        84121
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EN"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 28,
+    "fields": {
+      "profession_name": "Data Analyst",
+      "current_salary": 112506.28,
+      "future_salaries": [
+        112506,
+        112506,
+        112506
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EX"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 29,
+    "fields": {
+      "profession_name": "Data Architect",
+      "current_salary": 194636.37,
+      "future_salaries": [
+        194636,
+        194636,
+        194636
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "MI"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 30,
+    "fields": {
+      "profession_name": "Data Architect",
+      "current_salary": 150834.75,
+      "future_salaries": [
+        150834,
+        150834,
+        150834
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "SE"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 31,
+    "fields": {
+      "profession_name": "Data Architect",
+      "current_salary": 123185.96,
+      "future_salaries": [
+        123185,
+        123185,
+        123185
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EN"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 32,
+    "fields": {
+      "profession_name": "Data Architect",
+      "current_salary": 183773.93,
+      "future_salaries": [
+        183773,
+        183773,
+        183773
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EX"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 33,
+    "fields": {
+      "profession_name": "Data Engineer",
+      "current_salary": 125468.77,
+      "future_salaries": [
+        125468,
+        125468,
+        125468
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "MI"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 34,
+    "fields": {
+      "profession_name": "Data Engineer",
+      "current_salary": 156591.04,
+      "future_salaries": [
+        156591,
+        156591,
+        156591
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "SE"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 35,
+    "fields": {
+      "profession_name": "Data Engineer",
+      "current_salary": 100911.2,
+      "future_salaries": [
+        100911,
+        100911,
+        100911
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EN"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 36,
+    "fields": {
+      "profession_name": "Data Engineer",
+      "current_salary": 189686.36,
+      "future_salaries": [
+        189686,
+        189686,
+        189686
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EX"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 37,
+    "fields": {
+      "profession_name": "Analyst",
+      "current_salary": 107397.9,
+      "future_salaries": [
+        107397,
+        107397,
+        107397
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "MI"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 38,
+    "fields": {
+      "profession_name": "Analyst",
+      "current_salary": 122697.37,
+      "future_salaries": [
+        122697,
+        122697,
+        122697
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "SE"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 39,
+    "fields": {
+      "profession_name": "Analyst",
+      "current_salary": 96639.61,
+      "future_salaries": [
+        96639,
+        96639,
+        96639
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EN"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 40,
+    "fields": {
+      "profession_name": "Analyst",
+      "current_salary": 150689.35,
+      "future_salaries": [
+        150689,
+        150689,
+        150689
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EX"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 41,
+    "fields": {
+      "profession_name": "Engineer",
+      "current_salary": 137776.21,
+      "future_salaries": [
+        137776,
+        137776,
+        137776
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "MI"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 42,
+    "fields": {
+      "profession_name": "Engineer",
+      "current_salary": 173781.92,
+      "future_salaries": [
+        173781,
+        173781,
+        173781
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "SE"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 43,
+    "fields": {
+      "profession_name": "Engineer",
+      "current_salary": 89389.29,
+      "future_salaries": [
+        89389,
+        89389,
+        89389
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EN"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 44,
+    "fields": {
+      "profession_name": "Engineer",
+      "current_salary": 217993.31,
+      "future_salaries": [
+        217993,
+        217993,
+        217993
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EX"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 45,
+    "fields": {
+      "profession_name": "Analytics Engineer",
+      "current_salary": 139697.36,
+      "future_salaries": [
+        139697,
+        139697,
+        139697
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "MI"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 46,
+    "fields": {
+      "profession_name": "Analytics Engineer",
+      "current_salary": 150026.57,
+      "future_salaries": [
+        150026,
+        150026,
+        150026
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "SE"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 47,
+    "fields": {
+      "profession_name": "Analytics Engineer",
+      "current_salary": 87350.47,
+      "future_salaries": [
+        87350,
+        87350,
+        87350
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EN"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 48,
+    "fields": {
+      "profession_name": "Analytics Engineer",
+      "current_salary": 141243.79,
+      "future_salaries": [
+        141243,
+        141243,
+        141243
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EX"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 49,
+    "fields": {
+      "profession_name": "Associate",
+      "current_salary": 130986.21,
+      "future_salaries": [
+        130986,
+        130986,
+        130986
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "MI"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 50,
+    "fields": {
+      "profession_name": "Associate",
+      "current_salary": 112182.24,
+      "future_salaries": [
+        112182,
+        112182,
+        112182
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "SE"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 51,
+    "fields": {
+      "profession_name": "Associate",
+      "current_salary": 70772.88,
+      "future_salaries": [
+        70772,
+        70772,
+        70772
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EN"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 52,
+    "fields": {
+      "profession_name": "Associate",
+      "current_salary": 163263.11,
+      "future_salaries": [
+        163263,
+        163263,
+        163263
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EX"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 53,
+    "fields": {
+      "profession_name": "Product Manager",
+      "current_salary": 164511.63,
+      "future_salaries": [
+        164511,
+        164511,
+        164511
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "MI"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 54,
+    "fields": {
+      "profession_name": "Product Manager",
+      "current_salary": 189162.38,
+      "future_salaries": [
+        189162,
+        189162,
+        189162
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "SE"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 55,
+    "fields": {
+      "profession_name": "Product Manager",
+      "current_salary": 80158.32,
+      "future_salaries": [
+        80158,
+        80158,
+        80158
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EN"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 56,
+    "fields": {
+      "profession_name": "Product Manager",
+      "current_salary": 182367.06,
+      "future_salaries": [
+        182367,
+        182367,
+        182367
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EX"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 57,
+    "fields": {
+      "profession_name": "Applied Scientist",
+      "current_salary": 173163.62,
+      "future_salaries": [
+        173163,
+        173163,
+        173163
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "MI"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 58,
+    "fields": {
+      "profession_name": "Applied Scientist",
+      "current_salary": 177933.14,
+      "future_salaries": [
+        177933,
+        177933,
+        177933
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "SE"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 59,
+    "fields": {
+      "profession_name": "Applied Scientist",
+      "current_salary": 120103.55,
+      "future_salaries": [
+        120103,
+        120103,
+        120103
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EN"
+    }
+  },
+  {
+    "model": "professions.profession",
+    "pk": 60,
+    "fields": {
+      "profession_name": "Applied Scientist",
+      "current_salary": 183281.65,
+      "future_salaries": [
+        183281,
+        183281,
+        183281
+      ],
+      "companies": [
+        "Tuya S.A."
+      ],
+      "experience": "EX"
+    }
+  }
+]
