@@ -4,12 +4,12 @@ import json
 import joblib
 
 # Cargar modelo, encoder y scaler previamente guardados
-model = joblib.load("trained_random_forest_model.pkl")
-encoder = joblib.load("onehot_encoder.pkl")
-scaler = joblib.load("standard_scaler.pkl")
+model = joblib.load("model/trained_random_forest_model.pkl")
+encoder = joblib.load("model/onehot_encoder.pkl")
+scaler = joblib.load("model/standard_scaler.pkl")
 
 # Cargar el DataFrame base
-df = pd.read_csv("filtered_data.csv")
+df = pd.read_csv("model/filtered_data.csv")
 
 # Extraer combinaciones únicas de títulos de trabajo y niveles de experiencia
 unique_jobs = df['job_title'].unique()
@@ -47,14 +47,14 @@ for job in unique_jobs:
         current_salary = predict_salary(2025, level, job)
 
         # Salarios futuros (2026 a 2028)
-        future_salaries = [int(predict_salary(year, level, job)) for year in [2026, 2027, 2028]]
+        future_salaries = [int(predict_salary(year, level, job)*4000/12) for year in [2026, 2027, 2028]]
 
         json_entry = {
             "model": "professions.profession",
             "pk": pk_counter,
             "fields": {
                 "profession_name": job,
-                "current_salary": round(current_salary, 2),
+                "current_salary": round(current_salary*4000/12, 2),
                 "future_salaries": future_salaries,
                 "companies": ["Tuya S.A."],
                 "experience": level
@@ -65,7 +65,7 @@ for job in unique_jobs:
         pk_counter += 1
 
 # Guardar archivo
-with open("professions.json", "w", encoding="utf-8") as f:
+with open("model/professions.json", "w", encoding="utf-8") as f:
     json.dump(json_data, f, indent=2, ensure_ascii=False)
 
 print("✅ Archivo 'professions.json' generado correctamente.")

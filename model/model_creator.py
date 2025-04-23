@@ -5,7 +5,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 # Copy dataset
-df = pd.read_csv('filtered_data.csv')
+df = pd.read_csv('model/filtered_data.csv')
 
 # Function to remove outliers based on IQR for each experience level
 def remove_outliers_by_experience(df, column='salary_in_usd', group_by='experience_level'):
@@ -90,8 +90,8 @@ print(f"Predicted Salary: ${predicted_salary[0]:,.2f}")
 import joblib  # Para guardar objetos como modelos, encoder, scaler
 
 # Guardar el modelo entrenado
-joblib.dump(model, 'trained_random_forest_model.pkl')
+joblib.dump(model, 'model/trained_random_forest_model.pkl')
 
 # Guardar el encoder y el scaler
-joblib.dump(encoder, 'onehot_encoder.pkl')
-joblib.dump(scaler, 'standard_scaler.pkl')
+joblib.dump(encoder, 'model/onehot_encoder.pkl')
+joblib.dump(scaler, 'model/standard_scaler.pkl')
