@@ -1,3 +1,4 @@
 /env
 __pycache__/main.cpython-313.pyc
 model/__pycache__/predict_salary.cpython-313.pyc
+model
