@@ -4,13 +4,13 @@
     "pk": 1,
     "fields": {
       "profession_name": "Research Scientist",
-      "current_salary": 53188142.95,
+      "current_salary": 149958.22,
       "future_salaries": [
-        53188142,
-        53188142,
-        53188142,
-        53188142,
-        53188142
+        156706,
+        163758,
+        171127,
+        178827,
+        186875
       ],
       "companies": [
         "Tuya S.A."
@@ -23,13 +23,13 @@
     "pk": 2,
     "fields": {
       "profession_name": "Research Scientist",
-      "current_salary": 62690356.89,
+      "current_salary": 179052.03,
       "future_salaries": [
-        62690356,
-        62690356,
-        62690356,
-        62690356,
-        62690356
+        187109,
+        195529,
+        204328,
+        213522,
+        223131
       ],
       "companies": [
         "Tuya S.A."
@@ -42,13 +42,13 @@
     "pk": 3,
     "fields": {
       "profession_name": "Research Scientist",
-      "current_salary": 42348761.13,
+      "current_salary": 126045.08,
       "future_salaries": [
-        42348761,
-        42348761,
-        42348761,
-        42348761,
-        42348761
+        131717,
+        137644,
+        143838,
+        150311,
+        157075
       ],
       "companies": [
         "Tuya S.A."
@@ -61,13 +61,13 @@
     "pk": 4,
     "fields": {
       "profession_name": "Research Scientist",
-      "current_salary": 65296424.96,
+      "current_salary": 195566.88,
       "future_salaries": [
-        65296424,
-        65296424,
-        65296424,
-        65296424,
-        65296424
+        204367,
+        213563,
+        223174,
+        233217,
+        243711
       ],
       "companies": [
         "Tuya S.A."
@@ -80,13 +80,13 @@
     "pk": 5,
     "fields": {
       "profession_name": "Manager",
-      "current_salary": 48598688.32,
+      "current_salary": 148898.67,
       "future_salaries": [
-        48598688,
-        48598688,
-        48598688,
-        48598688,
-        48598688
+        155599,
+        162601,
+        169918,
+        177564,
+        185554
       ],
       "companies": [
         "Tuya S.A."
@@ -99,13 +99,13 @@
     "pk": 6,
     "fields": {
       "profession_name": "Manager",
-      "current_salary": 56715276.55,
+      "current_salary": 183195.22,
       "future_salaries": [
-        56715276,
-        56715276,
-        56715276,
-        56715276,
-        56715276
+        191439,
+        200053,
+        209056,
+        218463,
+        228294
       ],
       "companies": [
         "Tuya S.A."
@@ -118,13 +118,13 @@
     "pk": 7,
     "fields": {
       "profession_name": "Manager",
-      "current_salary": 56835705.44,
+      "current_salary": 106459.35,
       "future_salaries": [
-        56835705,
-        56835705,
-        56835705,
-        56835705,
-        56835705
+        111250,
+        116256,
+        121487,
+        126954,
+        132667
       ],
       "companies": [
         "Tuya S.A."
@@ -137,13 +137,13 @@
     "pk": 8,
     "fields": {
       "profession_name": "Manager",
-      "current_salary": 70731850.73,
+      "current_salary": 170554.67,
       "future_salaries": [
-        70731850,
-        70731850,
-        70731850,
-        70731850,
-        70731850
+        178229,
+        186249,
+        194631,
+        203389,
+        212542
       ],
       "companies": [
         "Tuya S.A."
@@ -156,13 +156,13 @@
     "pk": 9,
     "fields": {
       "profession_name": "Software Engineer",
-      "current_salary": 51809808.78,
+      "current_salary": 150785.23,
       "future_salaries": [
-        51809808,
-        51809808,
-        51809808,
-        51809808,
-        51809808
+        157570,
+        164661,
+        172071,
+        179814,
+        187905
       ],
       "companies": [
         "Tuya S.A."
@@ -175,13 +175,13 @@
     "pk": 10,
     "fields": {
       "profession_name": "Software Engineer",
-      "current_salary": 61939141.5,
+      "current_salary": 186024.42,
       "future_salaries": [
-        61939141,
-        61939141,
-        61939141,
-        61939141,
-        61939141
+        194395,
+        203143,
+        212284,
+        221837,
+        231820
       ],
       "companies": [
         "Tuya S.A."
@@ -194,13 +194,13 @@
     "pk": 11,
     "fields": {
       "profession_name": "Software Engineer",
-      "current_salary": 27607386.06,
+      "current_salary": 122795.24,
       "future_salaries": [
-        27607386,
-        27607386,
-        27607386,
-        27607386,
-        27607386
+        128321,
+        134095,
+        140129,
+        146435,
+        153025
       ],
       "companies": [
         "Tuya S.A."
@@ -213,13 +213,13 @@
     "pk": 12,
     "fields": {
       "profession_name": "Software Engineer",
-      "current_salary": 78636109.53,
+      "current_salary": 203408.61,
       "future_salaries": [
-        78636109,
-        78636109,
-        78636109,
-        78636109,
-        78636109
+        212562,
+        222127,
+        232123,
+        242568,
+        253484
       ],
       "companies": [
         "Tuya S.A."
@@ -232,13 +232,13 @@
     "pk": 13,
     "fields": {
       "profession_name": "Data Scientist",
-      "current_salary": 41140616.55,
+      "current_salary": 149958.22,
       "future_salaries": [
-        41140616,
-        41140616,
-        41140616,
-        41140616,
-        41140616
+        156706,
+        163758,
+        171127,
+        178827,
+        186875
       ],
       "companies": [
         "Tuya S.A."
@@ -251,13 +251,13 @@
     "pk": 14,
     "fields": {
       "profession_name": "Data Scientist",
-      "current_salary": 53974531.13,
+      "current_salary": 179052.03,
       "future_salaries": [
-        53974531,
-        53974531,
-        53974531,
-        53974531,
-        53974531
+        187109,
+        195529,
+        204328,
+        213522,
+        223131
       ],
       "companies": [
         "Tuya S.A."
@@ -270,13 +270,13 @@
     "pk": 15,
     "fields": {
       "profession_name": "Data Scientist",
-      "current_salary": 35729483.14,
+      "current_salary": 126045.08,
       "future_salaries": [
-        35729483,
-        35729483,
-        35729483,
-        35729483,
-        35729483
+        131717,
+        137644,
+        143838,
+        150311,
+        157075
       ],
       "companies": [
         "Tuya S.A."
@@ -289,13 +289,13 @@
     "pk": 16,
     "fields": {
       "profession_name": "Data Scientist",
-      "current_salary": 52855319.28,
+      "current_salary": 195566.88,
       "future_salaries": [
-        52855319,
-        52855319,
-        52855319,
-        52855319,
-        52855319
+        204367,
+        213563,
+        223174,
+        233217,
+        243711
       ],
       "companies": [
         "Tuya S.A."
@@ -308,13 +308,13 @@
     "pk": 17,
     "fields": {
       "profession_name": "Research Engineer",
-      "current_salary": 61539252.1,
+      "current_salary": 150785.23,
       "future_salaries": [
-        61539252,
-        61539252,
-        61539252,
-        61539252,
-        61539252
+        157570,
+        164661,
+        172071,
+        179814,
+        187905
       ],
       "companies": [
         "Tuya S.A."
@@ -327,13 +327,13 @@
     "pk": 18,
     "fields": {
       "profession_name": "Research Engineer",
-      "current_salary": 66971036.25,
+      "current_salary": 186024.42,
       "future_salaries": [
-        66971036,
-        66971036,
-        66971036,
-        66971036,
-        66971036
+        194395,
+        203143,
+        212284,
+        221837,
+        231820
       ],
       "companies": [
         "Tuya S.A."
@@ -346,13 +346,13 @@
     "pk": 19,
     "fields": {
       "profession_name": "Research Engineer",
-      "current_salary": 44202474.25,
+      "current_salary": 122795.24,
       "future_salaries": [
-        44202474,
-        44202474,
-        44202474,
-        44202474,
-        44202474
+        128321,
+        134095,
+        140129,
+        146435,
+        153025
       ],
       "companies": [
         "Tuya S.A."
@@ -365,13 +365,13 @@
     "pk": 20,
     "fields": {
       "profession_name": "Research Engineer",
-      "current_salary": 64727061.85,
+      "current_salary": 203408.61,
       "future_salaries": [
-        64727061,
-        64727061,
-        64727061,
-        64727061,
-        64727061
+        212562,
+        222127,
+        232123,
+        242568,
+        253484
       ],
       "companies": [
         "Tuya S.A."
@@ -384,13 +384,13 @@
     "pk": 21,
     "fields": {
       "profession_name": "Machine Learning Engineer",
-      "current_salary": 52888976.62,
+      "current_salary": 150785.23,
       "future_salaries": [
-        52888976,
-        52888976,
-        52888976,
-        52888976,
-        52888976
+        157570,
+        164661,
+        172071,
+        179814,
+        187905
       ],
       "companies": [
         "Tuya S.A."
@@ -403,13 +403,13 @@
     "pk": 22,
     "fields": {
       "profession_name": "Machine Learning Engineer",
-      "current_salary": 64930673.35,
+      "current_salary": 186024.42,
       "future_salaries": [
-        64930673,
-        64930673,
-        64930673,
-        64930673,
-        64930673
+        194395,
+        203143,
+        212284,
+        221837,
+        231820
       ],
       "companies": [
         "Tuya S.A."
@@ -422,13 +422,13 @@
     "pk": 23,
     "fields": {
       "profession_name": "Machine Learning Engineer",
-      "current_salary": 60664192.46,
+      "current_salary": 122795.24,
       "future_salaries": [
-        60664192,
-        60664192,
-        60664192,
-        60664192,
-        60664192
+        128321,
+        134095,
+        140129,
+        146435,
+        153025
       ],
       "companies": [
         "Tuya S.A."
@@ -441,13 +441,13 @@
     "pk": 24,
     "fields": {
       "profession_name": "Machine Learning Engineer",
-      "current_salary": 74182270.2,
+      "current_salary": 203408.61,
       "future_salaries": [
-        74182270,
-        74182270,
-        74182270,
-        74182270,
-        74182270
+        212562,
+        222127,
+        232123,
+        242568,
+        253484
       ],
       "companies": [
         "Tuya S.A."
@@ -460,13 +460,13 @@
     "pk": 25,
     "fields": {
       "profession_name": "Data Analyst",
-      "current_salary": 31135191.0,
+      "current_salary": 106105.2,
       "future_salaries": [
-        31135191,
-        31135191,
-        31135191,
-        31135191,
-        31135191
+        110879,
+        115869,
+        121083,
+        126532,
+        132226
       ],
       "companies": [
         "Tuya S.A."
@@ -479,13 +479,13 @@
     "pk": 26,
     "fields": {
       "profession_name": "Data Analyst",
-      "current_salary": 38021622.96,
+      "current_salary": 125045.81,
       "future_salaries": [
-        38021622,
-        38021622,
-        38021622,
-        38021622,
-        38021622
+        130672,
+        136553,
+        142698,
+        149119,
+        155829
       ],
       "companies": [
         "Tuya S.A."
@@ -498,13 +498,13 @@
     "pk": 27,
     "fields": {
       "profession_name": "Data Analyst",
-      "current_salary": 28040559.07,
+      "current_salary": 93363.89,
       "future_salaries": [
-        28040559,
-        28040559,
-        28040559,
-        28040559,
-        28040559
+        97565,
+        101955,
+        106543,
+        111338,
+        116348
       ],
       "companies": [
         "Tuya S.A."
@@ -517,13 +517,13 @@
     "pk": 28,
     "fields": {
       "profession_name": "Data Analyst",
-      "current_salary": 37502094.4,
+      "current_salary": 119959.47,
       "future_salaries": [
-        37502094,
-        37502094,
-        37502094,
-        37502094,
-        37502094
+        125357,
+        130998,
+        136893,
+        143053,
+        149491
       ],
       "companies": [
         "Tuya S.A."
@@ -536,13 +536,13 @@
     "pk": 29,
     "fields": {
       "profession_name": "Data Architect",
-      "current_salary": 64878790.51,
+      "current_salary": 132334.23,
       "future_salaries": [
-        64878790,
-        64878790,
-        64878790,
-        64878790,
-        64878790
+        138289,
+        144512,
+        151015,
+        157811,
+        164912
       ],
       "companies": [
         "Tuya S.A."
@@ -555,13 +555,13 @@
     "pk": 30,
     "fields": {
       "profession_name": "Data Architect",
-      "current_salary": 50278248.68,
+      "current_salary": 155243.86,
       "future_salaries": [
-        50278248,
-        50278248,
-        50278248,
-        50278248,
-        50278248
+        162229,
+        169530,
+        177159,
+        185131,
+        193462
       ],
       "companies": [
         "Tuya S.A."
@@ -574,13 +574,13 @@
     "pk": 31,
     "fields": {
       "profession_name": "Data Architect",
-      "current_salary": 41061987.31,
+      "current_salary": 109167.9,
       "future_salaries": [
-        41061987,
-        41061987,
-        41061987,
-        41061987,
-        41061987
+        114080,
+        119214,
+        124578,
+        130184,
+        136043
       ],
       "companies": [
         "Tuya S.A."
@@ -593,13 +593,13 @@
     "pk": 32,
     "fields": {
       "profession_name": "Data Architect",
-      "current_salary": 61257976.46,
+      "current_salary": 169962.33,
       "future_salaries": [
-        61257976,
-        61257976,
-        61257976,
-        61257976,
-        61257976
+        177610,
+        185603,
+        193955,
+        202683,
+        211804
       ],
       "companies": [
         "Tuya S.A."
@@ -612,13 +612,13 @@
     "pk": 33,
     "fields": {
       "profession_name": "Data Engineer",
-      "current_salary": 41822922.01,
+      "current_salary": 150785.23,
       "future_salaries": [
-        41822922,
-        41822922,
-        41822922,
-        41822922,
-        41822922
+        157570,
+        164661,
+        172071,
+        179814,
+        187905
       ],
       "companies": [
         "Tuya S.A."
@@ -631,13 +631,13 @@
     "pk": 34,
     "fields": {
       "profession_name": "Data Engineer",
-      "current_salary": 52197011.82,
+      "current_salary": 186024.42,
       "future_salaries": [
-        52197011,
-        52197011,
-        52197011,
-        52197011,
-        52197011
+        194395,
+        203143,
+        212284,
+        221837,
+        231820
       ],
       "companies": [
         "Tuya S.A."
@@ -650,13 +650,13 @@
     "pk": 35,
     "fields": {
       "profession_name": "Data Engineer",
-      "current_salary": 33637066.11,
+      "current_salary": 122795.24,
       "future_salaries": [
-        33637066,
-        33637066,
-        33637066,
-        33637066,
-        33637066
+        128321,
+        134095,
+        140129,
+        146435,
+        153025
       ],
       "companies": [
         "Tuya S.A."
@@ -669,13 +669,13 @@
     "pk": 36,
     "fields": {
       "profession_name": "Data Engineer",
-      "current_salary": 63228785.08,
+      "current_salary": 203408.61,
       "future_salaries": [
-        63228785,
-        63228785,
-        63228785,
-        63228785,
-        63228785
+        212562,
+        222127,
+        232123,
+        242568,
+        253484
       ],
       "companies": [
         "Tuya S.A."
@@ -688,13 +688,13 @@
     "pk": 37,
     "fields": {
       "profession_name": "Analyst",
-      "current_salary": 35799300.91,
+      "current_salary": 106105.2,
       "future_salaries": [
-        35799300,
-        35799300,
-        35799300,
-        35799300,
-        35799300
+        110879,
+        115869,
+        121083,
+        126532,
+        132226
       ],
       "companies": [
         "Tuya S.A."
@@ -707,13 +707,13 @@
     "pk": 38,
     "fields": {
       "profession_name": "Analyst",
-      "current_salary": 40899123.2,
+      "current_salary": 125045.81,
       "future_salaries": [
-        40899123,
-        40899123,
-        40899123,
-        40899123,
-        40899123
+        130672,
+        136553,
+        142698,
+        149119,
+        155829
       ],
       "companies": [
         "Tuya S.A."
@@ -726,13 +726,13 @@
     "pk": 39,
     "fields": {
       "profession_name": "Analyst",
-      "current_salary": 32213203.41,
+      "current_salary": 93363.89,
       "future_salaries": [
-        32213203,
-        32213203,
-        32213203,
-        32213203,
-        32213203
+        97565,
+        101955,
+        106543,
+        111338,
+        116348
       ],
       "companies": [
         "Tuya S.A."
@@ -745,13 +745,13 @@
     "pk": 40,
     "fields": {
       "profession_name": "Analyst",
-      "current_salary": 50229784.83,
+      "current_salary": 119959.47,
       "future_salaries": [
-        50229784,
-        50229784,
-        50229784,
-        50229784,
-        50229784
+        125357,
+        130998,
+        136893,
+        143053,
+        149491
       ],
       "companies": [
         "Tuya S.A."
@@ -764,13 +764,13 @@
     "pk": 41,
     "fields": {
       "profession_name": "Engineer",
-      "current_salary": 45925403.3,
+      "current_salary": 150785.23,
       "future_salaries": [
-        45925403,
-        45925403,
-        45925403,
-        45925403,
-        45925403
+        157570,
+        164661,
+        172071,
+        179814,
+        187905
       ],
       "companies": [
         "Tuya S.A."
@@ -783,13 +783,13 @@
     "pk": 42,
     "fields": {
       "profession_name": "Engineer",
-      "current_salary": 57927306.98,
+      "current_salary": 186024.42,
       "future_salaries": [
-        57927306,
-        57927306,
-        57927306,
-        57927306,
-        57927306
+        194395,
+        203143,
+        212284,
+        221837,
+        231820
       ],
       "companies": [
         "Tuya S.A."
@@ -802,13 +802,13 @@
     "pk": 43,
     "fields": {
       "profession_name": "Engineer",
-      "current_salary": 29796430.75,
+      "current_salary": 122795.24,
       "future_salaries": [
-        29796430,
-        29796430,
-        29796430,
-        29796430,
-        29796430
+        128321,
+        134095,
+        140129,
+        146435,
+        153025
       ],
       "companies": [
         "Tuya S.A."
@@ -821,13 +821,13 @@
     "pk": 44,
     "fields": {
       "profession_name": "Engineer",
-      "current_salary": 72664436.68,
+      "current_salary": 203408.61,
       "future_salaries": [
-        72664436,
-        72664436,
-        72664436,
-        72664436,
-        72664436
+        212562,
+        222127,
+        232123,
+        242568,
+        253484
       ],
       "companies": [
         "Tuya S.A."
@@ -840,13 +840,13 @@
     "pk": 45,
     "fields": {
       "profession_name": "Analytics Engineer",
-      "current_salary": 46565786.3,
+      "current_salary": 150785.23,
       "future_salaries": [
-        46565786,
-        46565786,
-        46565786,
-        46565786,
-        46565786
+        157570,
+        164661,
+        172071,
+        179814,
+        187905
       ],
       "companies": [
         "Tuya S.A."
@@ -859,13 +859,13 @@
     "pk": 46,
     "fields": {
       "profession_name": "Analytics Engineer",
-      "current_salary": 50008856.21,
+      "current_salary": 186024.42,
       "future_salaries": [
-        50008856,
-        50008856,
-        50008856,
-        50008856,
-        50008856
+        194395,
+        203143,
+        212284,
+        221837,
+        231820
       ],
       "companies": [
         "Tuya S.A."
@@ -878,13 +878,13 @@
     "pk": 47,
     "fields": {
       "profession_name": "Analytics Engineer",
-      "current_salary": 29116823.19,
+      "current_salary": 122795.24,
       "future_salaries": [
-        29116823,
-        29116823,
-        29116823,
-        29116823,
-        29116823
+        128321,
+        134095,
+        140129,
+        146435,
+        153025
       ],
       "companies": [
         "Tuya S.A."
@@ -897,13 +897,13 @@
     "pk": 48,
     "fields": {
       "profession_name": "Analytics Engineer",
-      "current_salary": 47081264.05,
+      "current_salary": 203408.61,
       "future_salaries": [
-        47081264,
-        47081264,
-        47081264,
-        47081264,
-        47081264
+        212562,
+        222127,
+        232123,
+        242568,
+        253484
       ],
       "companies": [
         "Tuya S.A."
@@ -916,13 +916,13 @@
     "pk": 49,
     "fields": {
       "profession_name": "Associate",
-      "current_salary": 43662069.4,
+      "current_salary": 132334.23,
       "future_salaries": [
-        43662069,
-        43662069,
-        43662069,
-        43662069,
-        43662069
+        138289,
+        144512,
+        151015,
+        157811,
+        164912
       ],
       "companies": [
         "Tuya S.A."
@@ -935,13 +935,13 @@
     "pk": 50,
     "fields": {
       "profession_name": "Associate",
-      "current_salary": 37394081.09,
+      "current_salary": 155243.86,
       "future_salaries": [
-        37394081,
-        37394081,
-        37394081,
-        37394081,
-        37394081
+        162229,
+        169530,
+        177159,
+        185131,
+        193462
       ],
       "companies": [
         "Tuya S.A."
@@ -954,13 +954,13 @@
     "pk": 51,
     "fields": {
       "profession_name": "Associate",
-      "current_salary": 23590958.36,
+      "current_salary": 109167.9,
       "future_salaries": [
-        23590958,
-        23590958,
-        23590958,
-        23590958,
-        23590958
+        114080,
+        119214,
+        124578,
+        130184,
+        136043
       ],
       "companies": [
         "Tuya S.A."
@@ -973,13 +973,13 @@
     "pk": 52,
     "fields": {
       "profession_name": "Associate",
-      "current_salary": 54421036.27,
+      "current_salary": 169962.33,
       "future_salaries": [
-        54421036,
-        54421036,
-        54421036,
-        54421036,
-        54421036
+        177610,
+        185603,
+        193955,
+        202683,
+        211804
       ],
       "companies": [
         "Tuya S.A."
@@ -992,13 +992,13 @@
     "pk": 53,
     "fields": {
       "profession_name": "Product Manager",
-      "current_salary": 54837210.45,
+      "current_salary": 148898.67,
       "future_salaries": [
-        54837210,
-        54837210,
-        54837210,
-        54837210,
-        54837210
+        155599,
+        162601,
+        169918,
+        177564,
+        185554
       ],
       "companies": [
         "Tuya S.A."
@@ -1011,13 +1011,13 @@
     "pk": 54,
     "fields": {
       "profession_name": "Product Manager",
-      "current_salary": 63054127.37,
+      "current_salary": 183195.22,
       "future_salaries": [
-        63054127,
-        63054127,
-        63054127,
-        63054127,
-        63054127
+        191439,
+        200053,
+        209056,
+        218463,
+        228294
       ],
       "companies": [
         "Tuya S.A."
@@ -1030,13 +1030,13 @@
     "pk": 55,
     "fields": {
       "profession_name": "Product Manager",
-      "current_salary": 26719438.64,
+      "current_salary": 106459.35,
       "future_salaries": [
-        26719438,
-        26719438,
-        26719438,
-        26719438,
-        26719438
+        111250,
+        116256,
+        121487,
+        126954,
+        132667
       ],
       "companies": [
         "Tuya S.A."
@@ -1049,13 +1049,13 @@
     "pk": 56,
     "fields": {
       "profession_name": "Product Manager",
-      "current_salary": 60789020.24,
+      "current_salary": 170554.67,
       "future_salaries": [
-        60789020,
-        60789020,
-        60789020,
-        60789020,
-        60789020
+        178229,
+        186249,
+        194631,
+        203389,
+        212542
       ],
       "companies": [
         "Tuya S.A."
@@ -1068,13 +1068,13 @@
     "pk": 57,
     "fields": {
       "profession_name": "Applied Scientist",
-      "current_salary": 57721206.95,
+      "current_salary": 149958.22,
       "future_salaries": [
-        57721206,
-        57721206,
-        57721206,
-        57721206,
-        57721206
+        156706,
+        163758,
+        171127,
+        178827,
+        186875
       ],
       "companies": [
         "Tuya S.A."
@@ -1087,13 +1087,13 @@
     "pk": 58,
     "fields": {
       "profession_name": "Applied Scientist",
-      "current_salary": 59311045.53,
+      "current_salary": 179052.03,
       "future_salaries": [
-        59311045,
-        59311045,
-        59311045,
-        59311045,
-        59311045
+        187109,
+        195529,
+        204328,
+        213522,
+        223131
       ],
       "companies": [
         "Tuya S.A."
@@ -1106,13 +1106,13 @@
     "pk": 59,
     "fields": {
       "profession_name": "Applied Scientist",
-      "current_salary": 40034516.26,
+      "current_salary": 126045.08,
       "future_salaries": [
-        40034516,
-        40034516,
-        40034516,
-        40034516,
-        40034516
+        131717,
+        137644,
+        143838,
+        150311,
+        157075
       ],
       "companies": [
         "Tuya S.A."
@@ -1125,13 +1125,13 @@
     "pk": 60,
     "fields": {
       "profession_name": "Applied Scientist",
-      "current_salary": 61093884.86,
+      "current_salary": 195566.88,
       "future_salaries": [
-        61093884,
-        61093884,
-        61093884,
-        61093884,
-        61093884
+        204367,
+        213563,
+        223174,
+        233217,
+        243711
       ],
       "companies": [
         "Tuya S.A."

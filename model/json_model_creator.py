@@ -48,7 +48,7 @@ def create_data():
             current_salary = predict_salary(2025, level, job)
 
             # Salarios futuros (2026 a 2028)
-            future_salaries = [int(predict_salary(year, level, job)*4000/12) for year in [2026, 2027, 2028]]
+            future_salaries = [int(predict_salary(year, level, job)*4000/12) for year in [2026, 2027, 2028, 2029, 2030]]
 
             json_entry = {
                 "model": "professions.profession",
